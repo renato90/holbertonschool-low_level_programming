@@ -1,1 +1,1 @@
-In this repository i was created the scripts in lenguage C
+In this repository there are the c scripts
